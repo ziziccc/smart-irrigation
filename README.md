@@ -1,4 +1,4 @@
-# 스마트 관개 시스템 — ATmega328P Multi-Master I2C
+# 스마트 관개 시스템 
 
 토양 수분과 조도를 실시간으로 감지해 필요한 시간에만 펌프를 자동 구동하는 스마트 관개 시스템.  
 4개의 Arduino 노드가 Multi-Master I2C 버스를 공유하며, P-제어기가 토양 수분을 Field Capacity 기준으로 정밀 제어.  
