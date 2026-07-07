@@ -1,0 +1,24 @@
+# Arduino build artifacts
+build/
+*.elf
+*.hex
+*.map
+*.lst
+*.o
+*.a
+
+# Arduino IDE
+*.bak
+*~
+.vscode/
+.arduino*/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Reports / PDFs (source code only in this repo)
+*.pdf
+*.pptx
+*.docx
